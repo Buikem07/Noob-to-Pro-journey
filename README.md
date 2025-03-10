@@ -4,7 +4,9 @@
 import random
 
 # Define the main function for the Number Guessing Game
-def number_guessing_game():
+
+
+    def number_guessing_game():
     # Print a welcome message
     print("Welcome to the Number Guessing Game!")
     
