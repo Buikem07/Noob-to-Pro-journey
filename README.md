@@ -8,7 +8,7 @@
 
     def number_guessing_game():
     # Print a welcome message
-    print("Welcome to the Number Guessing Game!")
+       print("Welcome to the Number Guessing Game!")
     
     # Initialize a variable to control whether the user wants to play again
     play_again = "yes"
