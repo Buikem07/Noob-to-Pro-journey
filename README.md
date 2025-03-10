@@ -1,7 +1,7 @@
 # Noob-to-Pro-journey
 #Guess the number game 
-# Import the random module to generate random numbers
-import random
+   # Import the random module to generate random numbers
+    import random
 
 # Define the main function for the Number Guessing Game
 
